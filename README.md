@@ -3,7 +3,7 @@
 React와 Next.js를 중심으로 프론트엔드 개발을 하고 있습니다.<br>
 사용자에게 더 나은 경험을 주기 위해 고민하고, 가독성 좋은 코드를 쓰려고 노력해요.<br>
 협업과 소통을 중요하게 생각하고, 꾸준히 성장하는 개발자가 되고 싶습니다.<br>
-작동하는 코드보다 **읽기 쉬운 코드**, 보기 좋은 화면보다 **의도 있는 UI**를 추구합니다.<br>
+다양한 툴의 사용보단 **읽기 쉬운 코드**, 보기 좋은 화면보다 **의도 있는 UI**를 추구합니다.<br>
 
 
 <br>
@@ -19,12 +19,19 @@ React와 Next.js를 중심으로 프론트엔드 개발을 하고 있습니다.<
 - Next.js
 - TypeScript
 - Styled-components / Module CSS
-- Zustand
+- Zod
 
 ### Tools
 
 - Git & GitHub
-- VS Code / Figma / Notion
+- slack
+- VS Code
+- Figma / XD
+- Notion
+- vercel
+- prettier
+- ESLint
+- storybook
 
 <br>
 <br>
