@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyeYeon%20Jung&fontSize=28&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyeYeon%20Jung&fontSize=28&fontAlignY=40" width="100%" />
 </p>
+
 
 
 ## 👩‍💻 About Me
@@ -8,8 +10,7 @@
 안녕하세요! 사용자 중심의 UI/UX를 추구하며, React와 Next.js 기반의 프로젝트에서 인증 처리, 상태 관리, 성능 최적화를 경험한 프론트엔드 개발자 정혜연입니다.  
 항상 새로운 기술을 배우고 적용하는 것을 즐기며, 협업과 커뮤니케이션을 중요하게 생각합니다.
 
-- 📍 천안, 대한민국
-- 🛠️ 주요 기술: React, Next.js, TypeScript, Tanstack Query
+- 🛠️ 주요 사용 기술: React, Next.js, TypeScript, Tanstack Query
 - 📫 이메일: jhy20306@gmail.com
 - 🌐 포트폴리오: [portfolio-yeon0036.vercel.app](https://portfolio-yeon0036.vercel.app)
 
@@ -61,4 +62,8 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+</p>
+
