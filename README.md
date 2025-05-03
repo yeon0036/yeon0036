@@ -1,45 +1,64 @@
-# 👋 안녕하세요! 사용자 경험을 고민하는 프론트엔드 개발자 정혜연입니다.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyeYeon%20Jung&fontSize=28&fontAlignY=40" />
+</p>
 
-React와 Next.js를 중심으로 **직관적이고 부드러운 사용자 경험**을 지향하는 개발을 하고 있습니다.<br>
-웹페이지의 구조적 설계와 성능 최적화를 중요하게 생각하며, **읽기 쉬운 코드**, **의도 있는 UI/UX** 구현을 목표로 합니다.<br>
-다양한 툴 사용보다는, 사용자 흐름을 고려한 **가독성 높은 코드와 명확한 구조**를 우선합니다.<br>
-협업과 소통을 중시하며, 꾸준히 배우고 성장하는 개발자가 되기 위해 노력하고 있습니다.
 
-<br>
-<br>
+## 👩‍💻 About Me
 
-## 🛠️ 기술 스택
+안녕하세요! 사용자 중심의 UI/UX를 추구하며, React와 Next.js 기반의 프로젝트에서 인증 처리, 상태 관리, 성능 최적화를 경험한 프론트엔드 개발자 정혜연입니다.  
+항상 새로운 기술을 배우고 적용하는 것을 즐기며, 협업과 커뮤니케이션을 중요하게 생각합니다.
 
-### Frontend
-- HTML / CSS / JavaScript (ES6+)
-- TypeScript
-- React
-- Next.js
-- Styled-components / CSS Modules
-- Zod
+- 📍 천안, 대한민국
+- 🛠️ 주요 기술: React, Next.js, TypeScript, Tanstack Query
+- 📫 이메일: jhy20306@gmail.com
+- 🌐 포트폴리오: [portfolio-yeon0036.vercel.app](https://portfolio-yeon0036.vercel.app)
 
-### Tools
-- Git & GitHub
-- Slack
-- VS Code
-- Figma / Adobe XD
-- Notion
-- Vercel
-- Prettier / ESLint
-- Storybook
+---
 
-<br>
-<br>
+## 🛠️ Tech Stack
 
-## 🎯 개발 철학
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-4A90E2?style=flat)
 
-- **사용자 중심의 UI/UX 설계**를 고민합니다.
-- **구조화된 컴포넌트 작성**과 **재사용성**을 고려한 개발을 지향합니다.
-- **빠른 데이터 처리와 최적화된 성능**을 통해 사용자 흐름을 끊지 않는 경험을 제공합니다.
-- **팀워크와 문서화, 코드 컨벤션**을 중시하며, 원활한 협업을 위해 노력합니다.
+### 🎨 Styling
+![Module CSS](https://img.shields.io/badge/CSS%20Module-000000?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 
-<br>
-<br>
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-> 매일 성장하는 개발자가 되기 위해 배우고, 실천하며 나아갑니다.  
-> 읽어주셔서 감사합니다!
+---
+
+
+## 📈 GitHub Stats
+
+![HyeYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon0036&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon0036&layout=compact)
+
+
+---
+
+
+## 📫 Contact
+
+- 📧 이메일: jhy20306@gmail.com
+- 🌐 포트폴리오: [portfolio-yeon0036.vercel.app](https://portfolio-yeon0036.vercel.app)
+- 🧠 Blog (준비 중)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
