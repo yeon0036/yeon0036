@@ -8,8 +8,8 @@
 ## 👩‍💻 About Me
 
 <br />
-- UIUX
-- Data fetching
+- UIUX <br />
+- Data fetching <br />
 - Status
   
 <br />
