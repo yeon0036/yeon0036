@@ -77,7 +77,7 @@
 
 - 📧 이메일: jhy20306@gmail.com
 - 🌐 포트폴리오: [portfolio-yeon0036.vercel.app](https://portfolio-yeon0036.vercel.app)
-- 🧠 Blog (준비 중)
+- 🧠 Blog : https://blog.naver.com/yeon0036_
 <br />
 
 <p align="center">
