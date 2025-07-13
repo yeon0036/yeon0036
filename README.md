@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyeYeon%20Jung&fontSize=60&fontAlignY=40&fontWeight=700" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&fontSize=60&fontAlignY=40&fontWeight=700" width="100%" />
 </p>
 
 
