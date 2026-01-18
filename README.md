@@ -50,17 +50,6 @@
 <br />
 
 
-## 📈 GitHub Stats
-
-![HyeYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon0036&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon0036&layout=compact)
-<br />
-<br />
-
----
-<br />
-
-
 ## 📫 Contact
 
 - 📧 이메일: jhy20306@gmail.com
