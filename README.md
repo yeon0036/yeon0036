@@ -1,63 +1,64 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&fontSize=60&fontAlignY=40&fontWeight=700" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontAlignY=40" width="100%" />
 </p>
 
+## 👋 Hi, I'm HyeYeon
 
+업무 맥락과 사용자 흐름을 이해하고,  
+**실제 운영 환경에서 안정적으로 동작하는 UI와 기능 구현**에 집중하는 개발자입니다.
 
-## ﹗important
+프론트엔드를 중심으로 시작했지만,  
+API 연동·상태 관리·서버 로직까지 포함한 **서비스 단위 개발 경험**을 쌓아왔습니다.
 
-<br />
-- UIUX <br />
-- Data fetching <br />
-- Status
-  
-<br />
 <br />
 
 ---
+
+## ﹗ What I focus on
+
+- **UI/UX** – 사용 흐름이 끊기지 않는 화면 구성  
+- **Data Fetching** – 서버 상태와 UI 상태를 분리한 데이터 관리  
+- **QA** – 반복적인 테스트와 예외 케이스 점검으로, 실제 운영 환경을 고려한 꼼꼼한 검증
+
 <br />
+
+---
 
 ## 🛠️ Tech Stack
 
 ### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-4A90E2?style=flat)
+- React, Next.js  
+- TypeScript / JavaScript  
+- HTML5, CSS3  
+- Zustand, React Query  
+- Axios, RESTful API  
 
 ### 🎨 Styling
-![Module CSS](https://img.shields.io/badge/CSS%20Module-000000?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
+- CSS Module  
+- Tailwind CSS  
+- Styled Components  
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-<br />
+### 🧩 Backend / Data
+- Python, Django  
+- PostgreSQL  
+
+### 🛠️ Tools & Infra
+- Git, GitHub  
+- Storybook  
+- Vercel, Railway  
+- Capacitor  
+
 <br />
 
 ---
-<br />
-
 
 ## 📫 Contact
 
-- 📧 이메일: jhy20306@gmail.com
-- 🌐 포트폴리오: [portfolio-yeon0036.vercel.app](https://portfolio-yeon0036.vercel.app)
+- 📧 Email: **jhy20306@gmail.com**  
+- 🌐 Portfolio: **https://portfolio-yeon0036.vercel.app**
 
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" />
 </p>
-
